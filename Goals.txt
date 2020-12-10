@@ -1,0 +1,8 @@
+Goals for December:
+Design a Webpage
+	-Make a general layout
+	-Make a couple of generic pages i.e. Accounts page, maybe login? (Will work on backend once page layout is complete)
+Put animations and shit, and go full out
+Figure out how to make an encrypted database for usernames and passwords with the use of hashing
+Probably try and get a certificate through the use of let'scencrypt so I don't have to go through a CA
+Get it up and running, and get some people on Server for Lads UwU to beta test it
